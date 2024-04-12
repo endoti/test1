@@ -1,4 +1,4 @@
-# test1 - changed by Domi!
+# test1 - change by Hania and Domi
 
 witaj świecie
 hey hey
